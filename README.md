@@ -1,4 +1,4 @@
-## WeedBot
+## WeedSmart
 A weed detection and spraying system using the OpenMV camera and machine vision
 
 **Background (can skip)**
