@@ -1,7 +1,7 @@
-## WeedSmart
+## SpraySmart
 A weed detection and spraying system using the OpenMV camera and machine vision
 
-**Background (can skip)**
+**Background**
 So I'm a farmer over here in Australia and we grow a heap of crops. We grow them through the winter, then through the summer, we have fallow (bare) paddocks with only left over wheat or canola stubble in them. We spray these paddocks for weeds in an effort to conserve moisture for the following crops as we are in a low rainfall area, and every little bit of moisture helps. Currently we blanket spray with herbicides, spraying every inch of the paddock trying to kill the growing weeds that suck moisture and nutrients from the soil. But there is a better way.
 
 **On to the proposed project**
